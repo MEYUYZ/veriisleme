@@ -1,0 +1,6 @@
+model,index,cosine_score
+skipgram_win2_dim300_stemmed,430,0.9940219
+skipgram_win2_dim300_stemmed,428,0.9938693
+skipgram_win2_dim300_stemmed,995,0.9937634
+skipgram_win2_dim300_stemmed,994,0.9937409
+skipgram_win2_dim300_stemmed,233,0.9937073

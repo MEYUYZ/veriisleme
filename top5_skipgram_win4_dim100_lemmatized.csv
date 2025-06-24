@@ -1,0 +1,6 @@
+model,index,cosine_score
+skipgram_win4_dim100_lemmatized,1330,0.0
+skipgram_win4_dim100_lemmatized,437,0.0
+skipgram_win4_dim100_lemmatized,439,0.0
+skipgram_win4_dim100_lemmatized,440,0.0
+skipgram_win4_dim100_lemmatized,441,0.0

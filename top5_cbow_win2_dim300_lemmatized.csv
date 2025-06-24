@@ -1,0 +1,6 @@
+model,index,cosine_score
+cbow_win2_dim300_lemmatized,1330,0.0
+cbow_win2_dim300_lemmatized,437,0.0
+cbow_win2_dim300_lemmatized,439,0.0
+cbow_win2_dim300_lemmatized,440,0.0
+cbow_win2_dim300_lemmatized,441,0.0

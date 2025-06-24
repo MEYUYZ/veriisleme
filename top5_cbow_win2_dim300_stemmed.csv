@@ -1,0 +1,6 @@
+model,index,cosine_score
+cbow_win2_dim300_stemmed,430,0.8308474
+cbow_win2_dim300_stemmed,428,0.8292241
+cbow_win2_dim300_stemmed,994,0.8256651
+cbow_win2_dim300_stemmed,233,0.8244746
+cbow_win2_dim300_stemmed,995,0.8214236
